@@ -92,7 +92,7 @@ Watch this explanation by The Organic Chemistry Tutor:
 """)
 
 # YouTube embed code (using Streamlit components)
-video_url = "https://www.youtube.com/embed/_-QblWVZETU"  # Ohm's Law video ID
+video_url = "https://www.youtube.com/watch?v=_rSHqvjDksg"  # Ohm's Law video ID
 from streamlit import components
 
 # Responsive video embed with collapsible section
@@ -113,5 +113,5 @@ with st.expander("Show/Hide Video", expanded=True):
 
 # Optional: Add direct link
 st.markdown("""
-[Watch on YouTube](https://www.youtube.com/watch?v=_-QblWVZETU)
+[Watch on YouTube](https://www.youtube.com/watch?v=_rSHqvjDksg)
 """)
